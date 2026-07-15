@@ -53,7 +53,7 @@ Work-Life Balance vs Attrition
 Correlation Analysis
 
 Dashboard Preview:
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Employee-Attrition-Intelligence-Dashboard/Images/Dashboard.png)
 
 Key Business Insights:
 Overall Attrition Rate: 16.12%
